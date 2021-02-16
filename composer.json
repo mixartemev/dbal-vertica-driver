@@ -1,5 +1,5 @@
 {
-    "name": "mixartemev/dbal-vertica-driver",
+    "name": "nafanyka/dbal-vertica-driver",
     "description": "Doctrine DBAL driver for Vertica",
     "keywords": [
         "database",
@@ -9,7 +9,7 @@
         "driver",
         "analytics"
     ],
-    "homepage": "https://github.com/mixartemev/dbal-vertica-driver",
+    "homepage": "https://github.com/nafanyka/dbal-vertica-driver",
     "type": "library",
     "license": "MIT",
     "conflict": {
