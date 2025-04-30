@@ -88,3 +88,9 @@ class AppServiceProvider extends ServiceProvider
     }
 }
 ```
+
+### Docker
+Demo installing on Linux Alpine:
+```
+docker build .
+```
