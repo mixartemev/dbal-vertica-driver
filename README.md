@@ -92,5 +92,6 @@ class AppServiceProvider extends ServiceProvider
 ### Docker
 Demo installing on Linux Alpine:
 ```
-docker build .
+docker build . -t vert
+docker run vert
 ```

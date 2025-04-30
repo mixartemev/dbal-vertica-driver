@@ -73,5 +73,6 @@
                 "mixartemev\\VerticaDriver\\VerticaDriverServiceProvider"
             ]
         }
-    }
+    },
+    "version": "v1.3.3"
 }
